@@ -2,7 +2,7 @@
 # 📊 Social Media Ad Campaign Dashboard
 
 ## 📌 Project Overview  
-This project delivers an **interactive Power BI dashboard** built on Social Media ad campaign data. It provides a **360° view of ad performance**, helping businesses measure **engagement, CTR, ROI, and ROAS** while identifying top-performing ads and audiences.
+This project delivers an **interactive Power BI dashboard** built on Social Media ad campaign data in the year of 2024. It provides a **360° view of ad performance**, helping businesses measure **engagement, CTR, ROI, and ROAS** while identifying top-performing ads and audiences.
 
 ---
 
