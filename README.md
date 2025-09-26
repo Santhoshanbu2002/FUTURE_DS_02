@@ -6,6 +6,15 @@ This project delivers an **interactive Power BI dashboard** built on Social Medi
 
 ---
 
+## Project Outlooks
+<img width="1260" height="704" alt="page 1" src="https://github.com/user-attachments/assets/3d25c2cb-89a3-4502-877a-9dcc5acf568f" />
+<img width="1143" height="634" alt="page 2" src="https://github.com/user-attachments/assets/a5e80b83-5b04-43e8-9e83-b98023e48f1d" />
+<img width="1011" height="567" alt="page 3" src="https://github.com/user-attachments/assets/afe66405-cc38-4164-8d25-d3b90dcd681c" />
+
+## Project review link: 
+https://app.powerbi.com/links/LqZloEiEWz?ctid=48bf0148-8d9d-49dd-a5a3-e62ba644d2d8&pbi_source=linkShare
+
+
 ## 🎯 Key Features  
 - **Campaign KPIs at a glance** – impressions, clicks, spend, revenue, CTR, ROAS  
 - **Top Ads Analysis** – highest engagement, CTR, and conversions  
